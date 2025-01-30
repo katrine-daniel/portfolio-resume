@@ -338,7 +338,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
   #header{
-    background-image: url(images/phone.backg.png);
+    background-image: url(https://www.shutterstock.com/image-photo/blue-neon-illustration-background-soft-600nw-2471352461.jpg);
     background-size: 200%;
   }
 
@@ -347,7 +347,7 @@ nav .fas{
     font-size: 30px;
   }
   .header-text h1{
-    font-size: 30px;
+    font-size: 90px;
   }
   nav .fas{
     display: block;
